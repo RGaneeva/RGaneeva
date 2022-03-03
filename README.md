@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RGaneeva
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently study at School 21 (Ecole 42) and learning Python and C/C++
 - 📫 How to reach me ...
 
 <!---
